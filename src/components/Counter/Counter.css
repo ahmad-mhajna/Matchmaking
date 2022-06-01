@@ -1,0 +1,9 @@
+.counter img {
+	width: 150px;
+	margin: 0 0.5rem;
+}
+
+.counter {
+	display: flex;
+	align-items: center;
+}
